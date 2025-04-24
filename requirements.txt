@@ -1,0 +1,12 @@
+os
+re
+glob
+json
+logging
+pymongo==4.6.1
+certifi==2024.2.2
+python-dotenv==1.0.1
+filelock==3.13.1
+sentence-transformers==2.2.2
+tensorflow==2.15.0
+langchain-groq==0.0.1
